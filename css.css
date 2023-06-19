@@ -1,0 +1,91 @@
+/************** HEADER **************/
+
+#header_box1 {
+    background-color: #f79d85 ;
+    height: auto;
+    font-family: Montserrat, sans-serif;
+    padding: 35px;
+}
+
+#header_box1 a {
+    text-transform: none;
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    justify-content: center;
+}
+
+#header_box1 a img {
+    height: 18px;
+    width: 15px;
+}
+
+#header_box2 {
+    background-color: white;
+    height: auto;
+}
+
+
+#header_box2 a {
+    font-family: Montserrat;
+    color: black;
+    text-transform: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 5px;
+    margin-right: 3px;
+}
+
+#header_box2 img {
+    height: 90px;
+    width: 90px;
+}
+
+#header_box2 h1 {
+    font-family: AkayaTelivigala, sans-serif;
+    font-style: italic;
+    ;
+}
+
+
+/************** ID ENSEIGNE **************/
+
+#Enseigne {
+    font-family: Montserrat, sans-serif;
+    background: url(./img/01PIC.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    box-shadow: 1px 26px 23px -8px rgba(0, 0, 0, 0.308) inset;
+    -webkit-box-shadow: 1px 26px 23px -8px rgba(0, 0, 0, 0.37) inset;
+    -moz-box-shadow: 1px 26px 23px -8px rgba(0, 0, 0, 0.37) inset;
+}
+
+#Enseigne h2 {
+    font-size: 28px;
+    color:#f17c4f;
+}
+
+#Enseigne span {
+    text-transform: uppercase;
+    font-size: 45px;
+}
+
+#Enseigne p {
+    font-size: 10px;
+}
+
+#Enseigne button {
+    font-family: Montserrat, sans-serif;
+    font-size: 12px;
+    background-color: #acd579;
+    border-radius: 44px 44px 44px 44px;
+    color: white;
+}
+
+
+
+
+
+
+
